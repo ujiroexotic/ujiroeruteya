@@ -26,16 +26,16 @@ const Projects = () => {
           link="https://metricjet.netlify.app/"
         />
         <ProjectItem
-          img={TrackdemyImg}
-          title="Trackdemy – Student Progress Tracker"
-          description="An academic progress management app for schools, using React on frontend and Firebase backend. Role-based access included."
-          link="https://trackdemy.web.app/"
-        />
-        <ProjectItem
           img={VoltstoreImg}
           title="VoltStore – E-Commerce Platform"
           description="A fully functional e-commerce web app featuring product browsing, cart system, and user authentication. Tech: React, Node, PostgreSQL."
          link='https://voltstore.netlify.app/'
+        />
+        <ProjectItem
+          img={TrackdemyImg}
+          title="Trackdemy – Student Progress Tracker"
+          description="An academic progress management app for schools, using React on frontend and Firebase backend. Role-based access included."
+          link="https://trackdemy.web.app/"
         />
       </div>
     </div>
