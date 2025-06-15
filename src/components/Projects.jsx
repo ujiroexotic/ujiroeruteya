@@ -35,7 +35,7 @@ const Projects = () => {
           img={VoltstoreImg}
           title="VoltStore – E-Commerce Platform"
           description="A fully functional e-commerce web app featuring product browsing, cart system, and user authentication. Tech: React, Node, PostgreSQL."
-          link="https://voltstore.netlify.app/"
+         /*  link="https://voltstore.netlify.app/" */
         />
       </div>
     </div>
